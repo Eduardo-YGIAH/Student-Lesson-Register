@@ -1,0 +1,21 @@
+{
+  "name": "class-attendance_app",
+  "version": "1.0.0",
+  "description": "a lesson planner to record the attendance of students",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Student Lesson Register"
+  },
+  "author": "Eduardo Neto",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
